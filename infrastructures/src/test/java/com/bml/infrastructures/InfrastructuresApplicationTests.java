@@ -1,13 +1,13 @@
-package com.bml.domain;
+package com.bml.infrastructures;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DomainApplicationTests {
+class InfrastructuresApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }

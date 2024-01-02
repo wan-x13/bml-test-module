@@ -6,7 +6,6 @@
         <groupId>com.bml</groupId>
         <artifactId>bml-test-module</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <artifactId>domain</artifactId>
     <properties>
