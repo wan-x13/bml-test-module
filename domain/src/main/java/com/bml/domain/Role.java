@@ -18,7 +18,6 @@ public class Role {
     private Long id;
     @Column
     private String name;
-
     @ManyToOne
     @JoinColumn(name = "user_id")
     @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
